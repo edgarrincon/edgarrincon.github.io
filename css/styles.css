@@ -1125,9 +1125,7 @@ button.bg-primary:focus {
   line-height: 2rem;
 }
 .masthead .masthead-subheading {
-  font-size: 1.5rem;
-  border: solid 2px;
-  padding: 0.5rem;
+  padding: 1rem;
   border-color: #adb5bd;
 }
 .masthead .masthead-avatar {
