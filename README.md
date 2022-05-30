@@ -1,2 +1,2 @@
-# edgarrincon.github.io-
+# edgarrincon.github.io
 landing redirect
